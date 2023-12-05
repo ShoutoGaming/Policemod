@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="policeitemsmod"
+version="${file.jarVersion}"
+displayName="Handcuffs Mod"
+displayURL="https://polv.dev"
+logoFile="policeitemsmod.png"
+credits="<Autor Desconocido> por el modelo y texturas"
+authors="PolV"
+description='''
+Permite esposar jugadores para que no puedan moverse ni interactuar con el entorno
+'''
+
+[[dependencies.policeitemsmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.policeitemsmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.policeitemsmod]]
+    modId="pehkui"
+    mandatory=true
+    versionRange="[3.7.8+1.16.5-forge,)"
+    ordering="NONE"
+    side="BOTH"

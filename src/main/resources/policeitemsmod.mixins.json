@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.polv.policeitemsmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "policeitemsmod.refmap.json",
+  "client": [
+    "client.PlayerModelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "LivingEntityMixin"
+  ]
+}

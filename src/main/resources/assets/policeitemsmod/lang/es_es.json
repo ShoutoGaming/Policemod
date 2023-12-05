@@ -1,0 +1,9 @@
+{
+    "item.policeitemsmod.handcuffs": "Esposas",
+    "item.policeitemsmod.handcuff_keys": "Llaves de Esposas",
+    "item.policeitemsmod.balistic_shield": "Escudo Balístico",
+    "gui.policeitemsmod.self.cuffed": "Has esposado a %s",
+    "gui.policeitemsmod.self.cuffing": "Estas esposando a %s (%s)",
+    "gui.policeitemsmod.target.cuffed": "Has sido esposado",
+    "gui.policeitemsmod.target.cuffing": "Estas siendo esposado por %s (%s)"
+}

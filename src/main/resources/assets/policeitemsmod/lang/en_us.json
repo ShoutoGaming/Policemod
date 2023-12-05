@@ -1,0 +1,9 @@
+{
+    "item.policeitemsmod.handcuffs": "Handcuffs",
+    "item.policeitemsmod.handcuff_keys": "Handcuffs Keys",
+    "item.policeitemsmod.balistic_shield": "Balistic Shield",
+    "gui.policeitemsmod.self.cuffed": "You have handcuffed %s",
+    "gui.policeitemsmod.self.cuffing": "You are cuffing %s (%s)",
+    "gui.policeitemsmod.target.cuffed": "You have been handcuffed",
+    "gui.policeitemsmod.target.cuffing": "You are being cuffed by %s (%s)"
+}
